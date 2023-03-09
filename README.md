@@ -48,8 +48,9 @@ Strong problem-solving skills and ability to work well in a team environment. Pr
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" />
+<!--
+**toniogabe/toniogabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-</p>
+Here are some ideas to get you started:
 
 <br />
