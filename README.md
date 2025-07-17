@@ -1,6 +1,18 @@
-# Hi, I'm Toniogabe! :wave:
+## Hey, I'm Tone Gabes 👋  
+Fullstack Developer · UI/UX Enthusiast · Technical Writer
 
-**`Antonio Gabriel (Developer/Designer)`**
+I'm a Brazilian developer with 7+ years of experience building full-featured web apps using **Laravel**, **Livewire**, and **Vue** — lately diving deeper into **React**, **TypeScript**, and **Supabase**.
+
+I love crafting clean, efficient code and intuitive user interfaces.  
+Design isn't just a bonus for me — it's part of the solution.
+
+🛠️ My main tools:
+- **Backend:** Laravel, Livewire, Filament, MySQL
+- **Frontend:** Vue, React, Tailwind, Alpine
+- **Design:** Figma, Framer
+- **DevOps:** Docker, Vercel, GitHub Actions
+
+✍️ I also write articles (in PT/EN) about web dev, product thinking, and the developer journey.
 
 I'm a fullstack Developer with 7 years of experience in developing and maintaining web applications using Laravel and Vue.js. Proficient in PHP, JavaScript, and front-end technologies such as HTML, CSS with Bootstrap and Tailwind.
 
